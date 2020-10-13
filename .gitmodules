@@ -1,3 +1,6 @@
 [submodule "remote-demo"]
 	path = remote-demo
 	url = git@github.com:andres-dc/remote-sm-demo.git
+[submodule "local-sm-demo"]
+	path = local-sm-demo
+	url = ./local-sm-demo
